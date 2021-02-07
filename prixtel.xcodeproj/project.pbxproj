@@ -1,0 +1,333 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7F09AFEA25CE922E005ECC95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F09AFE925CE922E005ECC95 /* main.cpp */; };
+		7F09AFF425CE92A8005ECC95 /* LoadConsumation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F09AFF225CE92A8005ECC95 /* LoadConsumation.cpp */; };
+		7F09B00425CEB340005ECC95 /* Parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F09B00225CEB340005ECC95 /* Parameter.cpp */; };
+		7F09B03125CEDD66005ECC95 /* LoadMobileOffers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F09B02F25CEDD66005ECC95 /* LoadMobileOffers.cpp */; };
+		7F851DB325CFFA0300A6CE09 /* PrintSummary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F851DB125CFFA0300A6CE09 /* PrintSummary.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		7F09AFE425CE922E005ECC95 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		7F09AFE625CE922E005ECC95 /* prixtel */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = prixtel; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F09AFE925CE922E005ECC95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7F09AFF225CE92A8005ECC95 /* LoadConsumation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LoadConsumation.cpp; sourceTree = "<group>"; };
+		7F09AFF325CE92A8005ECC95 /* LoadConsumation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LoadConsumation.hpp; sourceTree = "<group>"; };
+		7F09AFFC25CEA4DD005ECC95 /* extrait_data_sept.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = extrait_data_sept.csv; sourceTree = "<group>"; };
+		7F09AFFD25CEA4DD005ECC95 /* Gsm_offers.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gsm_offers.csv; sourceTree = "<group>"; };
+		7F09AFFE25CEA4DD005ECC95 /* Test Technique Backend.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Test Technique Backend.pdf"; sourceTree = "<group>"; };
+		7F09B00225CEB340005ECC95 /* Parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Parameter.cpp; sourceTree = "<group>"; };
+		7F09B00325CEB340005ECC95 /* Parameter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Parameter.hpp; sourceTree = "<group>"; };
+		7F09B02F25CEDD66005ECC95 /* LoadMobileOffers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LoadMobileOffers.cpp; sourceTree = "<group>"; };
+		7F09B03025CEDD66005ECC95 /* LoadMobileOffers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LoadMobileOffers.hpp; sourceTree = "<group>"; };
+		7F851DB125CFFA0300A6CE09 /* PrintSummary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PrintSummary.cpp; sourceTree = "<group>"; };
+		7F851DB225CFFA0300A6CE09 /* PrintSummary.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PrintSummary.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7F09AFE325CE922E005ECC95 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7F09AFDD25CE922E005ECC95 = {
+			isa = PBXGroup;
+			children = (
+				7F09AFE825CE922E005ECC95 /* prixtel */,
+				7F09AFE725CE922E005ECC95 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7F09AFE725CE922E005ECC95 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7F09AFE625CE922E005ECC95 /* prixtel */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7F09AFE825CE922E005ECC95 /* prixtel */ = {
+			isa = PBXGroup;
+			children = (
+				7F09B00025CEB308005ECC95 /* code */,
+				7F09AFFB25CEA4C4005ECC95 /* resources */,
+			);
+			path = prixtel;
+			sourceTree = "<group>";
+		};
+		7F09AFFB25CEA4C4005ECC95 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				7F09AFFC25CEA4DD005ECC95 /* extrait_data_sept.csv */,
+				7F09AFFD25CEA4DD005ECC95 /* Gsm_offers.csv */,
+				7F09AFFE25CEA4DD005ECC95 /* Test Technique Backend.pdf */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+		7F09B00025CEB308005ECC95 /* code */ = {
+			isa = PBXGroup;
+			children = (
+				7F09B00125CEB322005ECC95 /* controler */,
+				7F09AFE925CE922E005ECC95 /* main.cpp */,
+			);
+			path = code;
+			sourceTree = "<group>";
+		};
+		7F09B00125CEB322005ECC95 /* controler */ = {
+			isa = PBXGroup;
+			children = (
+				7F09AFF225CE92A8005ECC95 /* LoadConsumation.cpp */,
+				7F09AFF325CE92A8005ECC95 /* LoadConsumation.hpp */,
+				7F09B00225CEB340005ECC95 /* Parameter.cpp */,
+				7F09B00325CEB340005ECC95 /* Parameter.hpp */,
+				7F09B02F25CEDD66005ECC95 /* LoadMobileOffers.cpp */,
+				7F09B03025CEDD66005ECC95 /* LoadMobileOffers.hpp */,
+				7F851DB125CFFA0300A6CE09 /* PrintSummary.cpp */,
+				7F851DB225CFFA0300A6CE09 /* PrintSummary.hpp */,
+			);
+			path = controler;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7F09AFE525CE922E005ECC95 /* prixtel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7F09AFED25CE922E005ECC95 /* Build configuration list for PBXNativeTarget "prixtel" */;
+			buildPhases = (
+				7F09AFE225CE922E005ECC95 /* Sources */,
+				7F09AFE325CE922E005ECC95 /* Frameworks */,
+				7F09AFE425CE922E005ECC95 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = prixtel;
+			productName = prixtel;
+			productReference = 7F09AFE625CE922E005ECC95 /* prixtel */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7F09AFDE25CE922E005ECC95 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1210;
+				TargetAttributes = {
+					7F09AFE525CE922E005ECC95 = {
+						CreatedOnToolsVersion = 12.1;
+					};
+				};
+			};
+			buildConfigurationList = 7F09AFE125CE922E005ECC95 /* Build configuration list for PBXProject "prixtel" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7F09AFDD25CE922E005ECC95;
+			productRefGroup = 7F09AFE725CE922E005ECC95 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7F09AFE525CE922E005ECC95 /* prixtel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7F09AFE225CE922E005ECC95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F851DB325CFFA0300A6CE09 /* PrintSummary.cpp in Sources */,
+				7F09AFEA25CE922E005ECC95 /* main.cpp in Sources */,
+				7F09B00425CEB340005ECC95 /* Parameter.cpp in Sources */,
+				7F09B03125CEDD66005ECC95 /* LoadMobileOffers.cpp in Sources */,
+				7F09AFF425CE92A8005ECC95 /* LoadConsumation.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		7F09AFEB25CE922E005ECC95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		7F09AFEC25CE922E005ECC95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		7F09AFEE25CE922E005ECC95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7F09AFEF25CE922E005ECC95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7F09AFE125CE922E005ECC95 /* Build configuration list for PBXProject "prixtel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7F09AFEB25CE922E005ECC95 /* Debug */,
+				7F09AFEC25CE922E005ECC95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7F09AFED25CE922E005ECC95 /* Build configuration list for PBXNativeTarget "prixtel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7F09AFEE25CE922E005ECC95 /* Debug */,
+				7F09AFEF25CE922E005ECC95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7F09AFDE25CE922E005ECC95 /* Project object */;
+}

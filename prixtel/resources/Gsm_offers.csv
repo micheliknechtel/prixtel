@@ -1,0 +1,489 @@
+offer_id,label_tunnel,seuil_data
+1,Modulo 12 mois,1250000
+3,Modulo 24 mois,1250000
+5,Internet mobile 3G+ 12 mois,1250000
+6,Internet mobile 3G+ 24 mois,1250000
+7,Illimité 3G+ professionnel 12 mois,1000000
+8,Illimité 3G+ professionnel 24 mois,1000000
+9,Modulo professionnel 12 mois,500000
+10,Modulo professionnel 24 mois,500000
+11,Flotte 12 mois,16026
+12,Flotte 24 mois,16026
+13,Modulo flotte 12 mois,0
+14,Modulo flotte 24 mois,0
+15,Illimité Prixtel 12 mois,625000
+16,Illimité Prixtel 24 mois,625000
+17,Illimité professionnel Prixtel 12 mois,1000000
+18,Illimité professionnel Prixtel 24 mois,1000000
+19,Vraiment illimité Prixtel 12 mois,625000
+20,Vraiment illimité Prixtel 24 mois,625000
+21,Chrono,1250000
+22,Chrono professionnel 24 mois,1000000
+23,Chrono professionnel 36 mois,1000000
+24,Illimité professionnel Prixtel 36 mois,1000000
+25,Modulo professionnel 36 mois,500000
+27,Flotte 36 mois,16026
+28,Modulo Cinq 12 mois,1250000
+29,Modulo Cinq 24 mois,1250000
+30,iPad 3G,1792000
+31,Internet Nomade 12 mois,1250000
+32,Internet Nomade 24 mois,1250000
+33,Modulo flotte 36 mois,0
+34,Illimité 3G+ professionnel 36 mois,1000000
+35,Forfait Ultimo Pro 24 mois,7424000
+36,Forfait Ultimo Pro 36 mois,1250000
+39,Forfait Tempo 12 mois,1792000
+40,Forfait Tempo 24 mois,1792000
+41,Forfait Ultimo 24 mois,1792000
+42,Forfait Ultimo 12 mois,1792000
+43,Forfait Sumo,1250000
+44,Chrono Data Pro,1250000
+45,Modulo 2,2700000
+46,Forfait 45 min - SMS/MMS et Internet au compteur,0
+47,Forfait 30 min - SMS/MMS illimités - Internet au compteur,0
+48,Forfait 3h - SMS/MMS illimités - Internet au compteur,0
+49,Appels illimités - SMS/MMS illimités - Forfait Internet 100 Mo,0
+50,Forfait 8h - SMS/MMS illimités - Forfait Internet 500 Mo,0
+51,Appels illimités - SMS/MMS illimités - Forfait Internet 500 Mo,0
+52,Appels illimités - SMS/MMS illimités - Forfait Internet 1 Go,0
+53,Forfait 1h - 60 SMS,0
+55,Forfait 1h30 - 120 SMS,0
+63,Forfait 2h - SMS/MMS illimités - Forfait Internet 100 Mo,0
+64,Forfait 6h - SMS/MMS illimités - Forfait Internet 200 Mo,0
+65,Appels illimités - SMS/MMS illimités - Forfait Internet 750 Mo,0
+66,Modulo 2,2700000
+67,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go - Int. ill. Fixe,0
+68,Modulo Pro,6229333
+69,Forfait 2h - 60 SMS,0
+70,Forfait 5h - 250 SMS - Forfait Internet 150 Mo,0
+71,Forfait 7h - SMS/MMS illimités - Forfait Internet 350 Mo,0
+72,Forfait 10h - SMS/MMS illimités - Forfait Internet 750 Mo,0
+73,Appels ill. - SMS/MMS ill. - Forfait Internet 2 Go - Int. ill. Fixe,0
+74,Forfait 6h - SMS/MMS illimités - Forfait Internet 500 Mo,0
+75,Modulo 2,2700000
+76,Prixtel Bloqué 1h - 60 SMS,1000
+77,Prixtel Bloqué 1h30 - 120 SMS,1000
+78,Prixtel Bloqué 2h - SMS illimités - Forfait Internet 100 Mo,11264
+79,Prixtel Bloqué 6h - SMS illimités - Forfait Internet 500 Mo,52224
+80,Prixtel Bloqué Appels ill. - SMS illimités - Forfait Internet 1 Go,103424
+81,Forfait Bloqué 1h - 60 SMS,0
+82,Forfait Bloqué 1h30 - 120 SMS,0
+83,Forfait Bloqué 2h - SMS illimités - Forfait Internet 100 Mo,0
+84,Forfait Bloqué 6h - SMS illimités - Forfait Internet 500 Mo,0
+85,Forfait Bloqué Appels ill. - SMS illimités - Forfait Internet 1 Go,0
+86,Modulo 3,8000000
+87,Forfait 1h - 60 SMS,0
+88,Forfait 1h30 - 120 SMS - 20 Mo,0
+89,Appels illimités - SMS/MMS illimités - Forfait Internet 100 Mo,0
+90,Appels illimités - SMS/MMS illimités - Forfait Internet 500 Mo,0
+91,Appels ill. - SMS/MMS ill. - Forfait Internet 3 Go - Int. ill. Fixe,0
+92,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go - Int. ill. Fixe,0
+93,Forfait 1h - 60 SMS,0
+94,Forfait 2h - SMS/MMS ill. - Forfait Internet 20 Mo,0
+95,Appels illimités - SMS/MMS illimités - Forfait Internet 100 Mo,0
+96,Appels illimités - SMS/MMS illimités - Forfait Internet 500 Mo,0
+97,Appels ill. - SMS/MMS ill. - Forfait Internet 3 Go - Int. ill. Fixe,0
+98,Modulo Tab Pro,5080000
+99,Forfait Internet 100 Mo,0
+100,Forfait Internet 250 Mo,0
+101,Forfait Internet 500 Mo,0
+102,Forfait Internet 1 Go,0
+103,Forfait Internet 3 Go,0
+104,Modulo Pro 2,10100000
+105,Forfait 2h - SMS/MMS ill.,0
+106,Forfait 4h - SMS/MMS ill. - Forfait Internet 100 Mo,0
+107,Forfait 6h - SMS/MMS ill. - Forfait Internet 500 Mo,0
+108,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+109,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go - Int. ill. Fixe,0
+110,Modulo Tab Res,4500000
+111,Forfait Internet 100 Mo,0
+112,Forfait Internet 500 Mo,0
+113,Forfait Internet 1 Go,0
+114,Forfait Internet 2 Go,0
+115,Chrono,1250000
+116,Forfait classique 2 euros,5000000
+117,"Forfait classique 9,99 euros",5000000
+118,"Forfait classique 19,99 euros",8000000
+119,Modulo 4,8000000
+120,Forfait 1h - 60 SMS,0
+121,Forfait 2h - SMS/MMS ill. - Forfait Internet 20 Mo,0
+122,Appels illimités - SMS/MMS illimités - Forfait Internet 50 Mo,0
+123,Appels illimités - SMS/MMS illimités - Forfait Internet 1Go,0
+124,Appels ill. - SMS/MMS ill. - Forfait Internet 3 Go - Int. ill.,0
+125,Appels ill. - SMS/MMS ill. - Forfait Internet 3 Go - Int. ill.,0
+126,"Forfait 4G 14,99 euros",6144000
+127,"Forfait 4G 24,99 euros",10240000
+128,"Forfait 4G 39,99 euros",15360000
+150,Forfait Equitable,1024000
+151,Forfait Z - Appels illimités et SMS Illimités,715000
+152,Forfait A la carte,510000
+153,Forfait Le Compteur,1024000
+154,Forfait A la carte,510000
+155,Forfait Le Compteur,510000
+156,Forfait A la carte,510000
+157,Forfait Libre 2h,1024000
+158,Forfait Libre Appels illimités,1024000
+159,Forfait A la carte,1024000
+160,Forfait Libre 1h,1024000
+161,Forfait A la carte,510000
+162,"Forfait Appels, SMS illimités + Internet 1 Go",1024000
+163,Forfait Libre,1024000
+164,Forfait Libre avec Internet,450000
+165,Forfait FLM 1h+50 SMS,1024000
+166,Les forfaits PRO,1024000
+167,Forfait Pluriware 3 PRO,1024000
+168,Forfait Le compteur PRO,1024000
+169,Forfait Le compteur PRO,510000
+170,Forfait FLM 4h + SMS illimités,1024000
+171,Forfait Libre,1024000
+172,Forfait Z - Appels et SMS illimités + Internet,715000
+173,Forfait FLM 2h + SMS illimités,1024000
+174,"Forfait FLM 6h, SMS illimités et Internet",1024000
+175,Palier 1,0
+176,Palier 2,0
+177,Palier 3,0
+178,Palier 4,0
+179,Palier 5,0
+180,Modulo TAB 4G,8500000
+181,Modulo MOBILE 4G,11000000
+182,Forfait 15 min - 15 SMS,0
+183,Forfait 2h - SMS/MMS ill. - Forfait Internet 50 Mo,0
+184,Appels 3h - SMS/MMS ill. - Forfait Internet 1 Go,0
+185,Appels illimités - SMS/MMS illimités - Forfait Internet 3Go,0
+186,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go - Int. ill.,0
+188,Forfait Internet 100 Mo,0
+189,Forfait Internet 500 Mo,0
+190,Forfait Internet 2 Go,0
+191,Forfait Internet 6 Go,0
+192,Forfait Pluriware PRO,1024000
+193,Palier 1,0
+194,Palier 2,0
+195,Modulo MOBILE 4G Pro,10100000
+196,Modulo TAB Pro 4G,12100000
+197,Appels illimités - SMS illimités,0
+198,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+199,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go,0
+200,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go - Int. ill.,0
+201,Appels ill. - SMS/MMS ill. - Forfait Internet 8 Go - Int. ill.,0
+202,Forfait Internet 250 Mo,0
+203,Forfait Internet 500 Mo,0
+204,Forfait Internet 3 Go,0
+205,Forfait Internet 5 Go,0
+206,Forfait Internet 10 Go - Roaming 1 Go,0
+208,Modulo (version 6),6000000
+209,Modulo (version 6) bloqué sans internet,1000
+210,Modulo (version 6) bloqué 100 Mo,99000
+211,Modulo (version 6) bloqué 1 Go,1000000
+212,Modulo (version 6) bloqué 3 Go,3000000
+213,Modulo (version 6) bloqué 6 Go,6000000
+214,Appels illimités - SMS/MMS illimités,0
+215,Appels illimités - SMS/MMS illimités - 100 Mo,0
+216,Appels illimités - SMS/MMS illimités - 1 Go,0
+217,Appels ill. - SMS/MMS ill. - Forfait Internet 3 Go - Int. ill.,0
+218,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go - Int. ill.,0
+219,Appels illimités - SMS/MMS illimités,0
+220,Appels illimités - SMS/MMS illimités - 100 Mo,0
+221,Appels illimités - SMS/MMS illimités - 1 Go,0
+222,Appels illimités - SMS/MMS illimités - 3 Go,0
+223,Appels illimités - SMS/MMS illimités - 6 Go,0
+224,Modulo MOBILE 4G,11000000
+225,Forfait Agrisoleil 30 Mo,0
+226,Forfait Agrisoleil 150 Mo,0
+227,Forfait Lovauto 30 Mo,0
+228,Modulo (version 6),6000000
+229,Modulo (version 6) bloqué sans internet,1000
+230,Modulo (version 6) bloqué 100 Mo,99000
+231,Modulo (version 6) bloqué 1 Go,1000000
+232,Modulo (version 6) bloqué 3 Go,3000000
+233,Modulo (version 6) bloqué 6 Go,6000000
+236,Modulo MOBILE 4G Pro,8190976
+237,Modulo MOBILE 4G,11000000
+238,Forfait 15 min - 15 SMS/MMS - 15 Mo,0
+239,Forfait 2h - SMS/MMS ill. - Forfait Internet 100 Mo,0
+240,"Appels 3h - SMS/MMS ill. - Forfait Internet 1,5 Go",0
+241,Appels illimités - SMS/MMS illimités - Forfait Internet 4Go,0
+242,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go - Int. ill.,0
+243,Forfait Affluences 60 Mo,0
+244,Modulo MOBILE 4G Pro,10100000
+245,Appels illimités - SMS/MMS illimités,0
+246,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+247,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go,0
+248,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go - Int. ill.,0
+249,Appels ill. - SMS/MMS ill. - Forfait Internet 8 Go - Int. ill.,0
+251,Modulo MOBILE 4G Pro bloqué sans internet,1000
+252,Modulo MOBILE 4G Pro bloqué 1 Go,1000000
+253,Modulo MOBILE 4G Pro bloqué 4 Go,4000000
+254,Modulo MOBILE 4G Pro bloqué 6 Go,6140928
+255,Modulo MOBILE 4G Pro bloqué 8 Go,8000000
+256,Appels illimités - SMS/MMS illimités,0
+257,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+258,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go,0
+259,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go,0
+260,Appels ill. - SMS/MMS ill. - Forfait Internet 8 Go,0
+261,Modulo MOBILE 4G Pro sans engagement de 10__EURO__ à 45__EURO__,8000000
+262,Modulo MOBILE 4G Pro bloqué sans internet,1000
+263,Modulo MOBILE 4G Pro bloqué 1 Go,1000000
+264,Modulo MOBILE 4G Pro bloqué 4 Go,4000000
+265,Modulo MOBILE 4G Pro bloqué 6 Go,6140928
+266,Modulo MOBILE 4G Pro bloqué 8 Go,8000000
+267,Modulo (version 6) Noël,6140928
+268,Modulo (version 6) Noël,11000000
+269,Modulo (version 6) Promo,11000000
+270,Forfait LM SOLEIL 30 Mo,10000000
+271,Appels illimités - SMS/MMS illimités - 1 Go,0
+272,Appels illimités - SMS/MMS illimités - 3 Go,0
+273,Appels illimités - SMS/MMS illimités - 6 Go,0
+274,Appels illimités - SMS/MMS illimités - 100 Mo,0
+275,Appels illimités - SMS/MMS illimités,0
+276,Appels illimités - SMS/MMS illimités,0
+277,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+278,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go,0
+279,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go,0
+280,Appels ill. - SMS/MMS ill. - Forfait Internet 8 Go,0
+281,Modulo (version 6) Promo,6000000
+282,Modulo Mini,450000
+283,"Modulo Mini sans engagement de 2__EURO__ à 8,99__EURO__",510976
+284,Forfait 2h - 100 SMS/MMS,0
+285,Forfait 2h - 250 SMS/MMS - 20 Mo,0
+286,Forfait 3h - 500 SMS/MMS - 50 Mo,0
+287,Forfait 5h - SMS/MMS illimités - 250 Mo,0
+288,Modulo Mini bloqué palier 1,1000
+289,Modulo Mini bloqué palier 2,19000
+290,Modulo Mini bloqué palier 3,49000
+291,Modulo Mini bloqué palier 4,249000
+292,Modulo Mini bloqué à 2 __EURO__,1000
+293,"Modulo Mini bloqué à 3,99 __EURO__",19000
+294,"Modulo Mini bloqué à 5,99 __EURO__",49000
+295,"Modulo Mini bloqué à 8,99 __EURO__",249000
+296,Forfait 2h - 100 SMS/MMS,0
+297,Forfait 2h - 250 SMS/MMS - 20 Mo,0
+298,Forfait 3h - 500 SMS/MMS - 50 Mo,0
+299,Forfait 5h - SMS/MMS illimités - 250 Mo,0
+300,Promo Modulo Mini,450000
+301,Modulo Maxi,9000000
+302,Modulo Maxi bloqué palier 1,249000
+303,Modulo Maxi bloqué palier 2,1000000
+304,Modulo Maxi bloqué palier 3,3000000
+305,Modulo Maxi bloqué palier 4,5000000
+306,Modulo Maxi bloqué palier 5,10000000
+307,"Modulo Maxi sans engagement de 7,99__EURO__ à 24,99__EURO__",10000000
+308,"Modulo Maxi bloqué à 7,99 __EURO__",249000
+309,"Modulo Maxi bloqué à 9,99 __EURO__",1000000
+310,"Modulo Maxi bloqué à 14,99 __EURO__",3000000
+311,"Modulo Maxi bloqué à 19,99 __EURO__",5000000
+312,"Modulo Maxi bloqué à 24,99 __EURO__",10000000
+313,Forfait 3h - SMS/MMS illimités - 250 Mo,0
+314,Forfait 3h - SMS/MMS illimités - 1 Go,0
+315,Forfait 6h - SMS/MMS illimités - 3 Go,0
+316,Appels illimités - SMS/MMS illimités - 5 Go,0
+317,Appels illimités - SMS/MMS illimités - 10 Go,0
+318,Forfait 3h - SMS/MMS illimités - 250 Mo,0
+319,Forfait 3h - SMS/MMS illimités - 1 Go,0
+320,Forfait 6h - SMS/MMS illimités - 3 Go,0
+321,Appels illimités - SMS/MMS illimités - 5 Go,0
+322,Appels illimités - SMS/MMS illimités - 10 Go,0
+323,Promo Modulo Maxi,9000000
+324,Promo Modulo Mini,510976
+325,Promo Modulo Maxi,10000000
+327,Modulo (version 6) Promo,11000000
+328,MODULO 4G Pro bloqué 4 Go PRIXTEL/AGROBIOTHERS,4000000
+329,MODULO 4G Pro bloqué sans internet PRIXTEL/AGROBIOTHERS,1000
+330,Prixtel - D2E,0
+331,AGROBIOTHERS 4G BLOQUEE 4GO,4075520
+332,AGROBIOTHERS 4G BLOQUEE 1GO,1019904
+333,Modulo Pro 2 bloqué 2h,1000
+334,Modulo AGROBIOTHERS bloqué 4Go,4096000
+335,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go,0
+336,Modulo AGROBIOTHERS bloqué 1Go,1024000
+337,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+338,Appels illimités - SMS/MMS illimités,0
+339,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+340,Appels illimités - SMS/MMS illimités,0
+341,Offre Gifi,103424
+342,"L'essentiel",1000000
+343,Forfait 2h - 100 SMS/MMS,0
+344,Forfait 2h - 250 SMS/MMS - 20 Mo,0
+345,Forfait 3h - 500 SMS/MMS - 50 Mo,0
+346,Forfait 4h - SMS/MMS illimités - 200 Mo,0
+347,Le complet,50000000
+348,Forfait 4h - SMS/MMS illimités - 1 Go,0
+349,Forfait 6h - SMS/MMS illimités - 3 Go,0
+350,Forfait 10h - SMS/MMS illimités - 5 Go,0
+351,Appels illimités - SMS/MMS illimités - 20 Go,0
+352,"L'essentiel",200000
+353,Le complet,50000000
+354,"Promo L'essentiel",200000
+355,Promo Le complet,50000000
+356,"Promo L'essentiel",1000000
+357,Promo Le complet,50000000
+358,Forfait 2h - SMS/MMS illimités - 10 Mo,0
+359,Forfait 3h - SMS/MMS illimités - 50 Mo,0
+360,Forfait 4h - SMS/MMS illimités - 100 Mo,0
+361,Forfait 6h - SMS/MMS illimités - 200 Mo,0
+362,Appels illimités - SMS/MMS illimités - 3 Go,0
+363,Appels illimités - SMS/MMS illimités - 15 Go,0
+364,Appels illimités - SMS/MMS illimités - 30 Go,0
+365,"L'essentiel",1000000
+366,"L'essentiel",1000000
+367,"Promo L'essentiel",200000
+368,"Promo L'essentiel",200000
+369,Appels illimités - SMS/MMS illimités - 5 Go,0
+370,Appels illimités - SMS/MMS illimités - 50 Go,0
+371,Ultimo,100000000
+372,Promo Coconut 2018,50000000
+373,Promo Coconut 2018,50000000
+374,Promo Le complet,50000000
+375,Promo Le complet,50000000
+376,"Promo L'essentiel",200000
+377,"Promo L'essentiel",200000
+378,Le complet,50000000
+379,Promo Flash 2018,50000000
+380,Promo Flash 2018,50000000
+381,Promo Star 2018,50000000
+382,Promo Star 2018,50000000
+383,Appels illimités - SMS/MMS illimités - 5 Go,0
+384,Appels illimités - SMS/MMS illimités - 15 Go,0
+385,Appels illimités - SMS/MMS illimités - 50 Go,0
+386,Série Spéciale,100000000
+387,Série Spéciale,100000000
+388,Appels illimités - SMS/MMS illimités - 10 Go,0
+389,Appels illimités - SMS/MMS illimités - 50 Go,0
+390,Appels illimités - SMS/MMS illimités - 100 Go,0
+391,Série Spéciale,100000000
+392,Série Spéciale,100000000
+393,Appels illimités - SMS/MMS illimités - 10 Go,0
+394,Appels illimités - SMS/MMS illimités - 50 Go,0
+395,Appels illimités - SMS/MMS illimités - 100 Go,0
+396,Test Guillaume,100000000
+397,Test Guillaume,100000000
+398,Promo Le complet,50000000
+399,Promo Le complet,50000000
+401,Forfait Bloqué 2h - SMS illimités - Forfait Internet 100 Mo,0
+402,Forfait Bloqué 6h - SMS illimités - Forfait Internet 500 Mo,0
+403,Appels illimités - SMS/MMS illimités - 100 Mo,0
+404,Appels illimités - SMS/MMS illimités - 1 Go,0
+405,Appels illimités - SMS/MMS illimités - 3 Go,0
+406,Appels ill. - SMS/MMS ill. - Forfait Internet 1 Go,0
+407,Appels ill. - SMS/MMS ill. - Forfait Internet 4 Go,0
+408,Appels ill. - SMS/MMS ill. - Forfait Internet 6 Go,0
+409,Forfait 2h - 250 SMS/MMS - 20 Mo,0
+410,Forfait 3h - 500 SMS/MMS - 50 Mo,0
+411,Forfait 3h - SMS/MMS illimités - 1 Go,0
+412,Forfait 6h - SMS/MMS illimités - 3 Go,0
+413,Appels illimités - SMS/MMS illimités - 5 Go,0
+414,Forfait Bloqué 1h30 - 120 SMS,0
+415,Le complet,50000000
+416,Le complet,50000000
+417,Appels illimités - SMS/MMS illimités - 5 Go,0
+418,Appels illimités - SMS/MMS illimités - 15 Go,0
+419,Appels illimités - SMS/MMS illimités - 50 Go,0
+420,Série Spéciale,100000000
+421,Série Spéciale,100000000
+422,Appels illimités - SMS/MMS illimités - 10 Go,0
+423,Appels illimités - SMS/MMS illimités - 50 Go,0
+424,Appels illimités - SMS/MMS illimités - 100 Go,0
+425,Modulo MOBILE 4G Pro,10000000
+426,Modulo MOBILE 4G Pro,10000000
+427,Série Spéciale,100000000
+428,Série Spéciale,100000000
+430,Série Spéciale,100000000
+431,Série Spéciale,100000000
+432,Série Spéciale,100000000
+433,Série Spéciale,100000000
+440,Série Spéciale,100000000
+441,Série Spéciale,100000000
+442,Série Spéciale,100000000
+443,Série Spéciale,100000000
+444,Le complet,50000000
+445,Le complet,50000000
+446,Appels illimités - SMS/MMS illimités - 5 Go,0
+447,Appels illimités - SMS/MMS illimités - 15 Go,0
+448,Appels illimités - SMS/MMS illimités - 50 Go,0
+449,Promo Le complet,50000000
+450,Promo Le complet,50000000
+455,Premium,100000000
+456,Premium,100000000
+457,Appels illimités - SMS/MMS illimités - 10 Go,0
+458,Appels illimités - SMS/MMS illimités - 50 Go,0
+459,Appels illimités - SMS/MMS illimités - 100 Go,0
+461,Premium promo,100000000
+462,Premium promo,100000000
+463,Appels illimités - SMS/MMS illimités - 10 Go,0
+464,Appels illimités - SMS/MMS illimités - 50 Go,0
+465,Appels illimités - SMS/MMS illimités - 100 Go,0
+466,Access,1000000
+467,Access,1000000
+468,Forfait 2h - SMS/MMS illimités - 10 Mo,0
+469,Forfait 3h - SMS/MMS illimités - 50 Mo,0
+470,Forfait 4h - SMS/MMS illimités - 100 Mo,0
+471,Forfait 6h - SMS/MMS illimités - 200 Mo,0
+472,Promo Le complet,50000000
+473,Promo Le complet,50000000
+474,La Giga Série,200000000
+475,La Giga Série,200000000
+476,Appels illimités - SMS/MMS illimités - 50 Go,0
+477,Appels illimités - SMS/MMS illimités - 100 Go,0
+478,Appels illimités - SMS/MMS illimités - 200 Go,0
+479,La Giga Série,200000000
+480,La Giga Série,200000000
+481,Appels illimités - SMS/MMS illimités - 50 Go,0
+482,Appels illimités - SMS/MMS illimités - 100 Go,0
+483,Appels illimités - SMS/MMS illimités - 200 Go,0
+484,La Giga Série,200000000
+485,La Giga Série,200000000
+486,Appels illimités - SMS/MMS illimités - 50 Go,0
+487,Appels illimités - SMS/MMS illimités - 100 Go,0
+488,Appels illimités - SMS/MMS illimités - 200 Go,0
+489,La Giga Série,200000000
+490,La Giga Série,200000000
+491,Appels illimités - SMS/MMS illimités - 50 Go,0
+492,Appels illimités - SMS/MMS illimités - 100 Go,0
+493,Appels illimités - SMS/MMS illimités - 200 Go,0
+494,La Giga Série,200000000
+495,La Giga Série,200000000
+496,La Giga Série,200000000
+497,La Giga Série,200000000
+498,Appels illimités - SMS/MMS illimités - 50 Go,0
+499,Appels illimités - SMS/MMS illimités - 100 Go,0
+500,Appels illimités - SMS/MMS illimités - 200 Go,0
+501,La Giga Série,200000000
+502,La Giga Série,200000000
+503,Appels illimités - SMS/MMS illimités - 50 Go,0
+504,Appels illimités - SMS/MMS illimités - 100 Go,0
+505,Appels illimités - SMS/MMS illimités - 200 Go,0
+506,Premium,100000000
+507,Appels illimités - SMS/MMS illimités - 10 Go,0
+508,Appels illimités - SMS/MMS illimités - 50 Go,0
+509,Appels illimités - SMS/MMS illimités - 100 Go,0
+510,Appels illimités - SMS/MMS illimités - 3 Go,0
+511,Appels illimités - SMS/MMS illimités - 5 Go,0
+512,Appels illimités - SMS/MMS illimités - 10 Go,0
+513,Appels illimités - SMS/MMS illimités - 3 Go,0
+514,Appels illimités - SMS/MMS illimités - 5 Go,0
+515,Appels illimités - SMS/MMS illimités - 10 Go,0
+516,Le Petit,10000000
+517,Le Petit,10000000
+518,Le Petit,10000000
+519,Le Petit,10000000
+520,Appels illimités - SMS/MMS illimités - 20 Go,0
+521,Appels illimités - SMS/MMS illimités - 40 Go,0
+522,Appels illimités - SMS/MMS illimités - 60 Go,0
+523,Appels illimités - SMS/MMS illimités - 20 Go,0
+524,Appels illimités - SMS/MMS illimités - 40 Go,0
+525,Appels illimités - SMS/MMS illimités - 60 Go,0
+526,Le grand,50000000
+527,Le grand,50000000
+528,Le grand,50000000
+529,Le grand,50000000
+530,Appels illimités - SMS/MMS illimités - 100 Go,0
+531,Appels illimités - SMS/MMS illimités - 150 Go,0
+532,Appels illimités - SMS/MMS illimités - 200 Go,0
+533,Appels illimités - SMS/MMS illimités - 100 Go,0
+534,Appels illimités - SMS/MMS illimités - 150 Go,0
+535,Appels illimités - SMS/MMS illimités - 200 Go,0
+536,Le Géant,200000000
+537,Le Géant,200000000
+538,Le Géant,200000000
+539,Le Géant,200000000
+1016,Test Guillaume VVMILT,100000000
+1017,Test Guillaume VVMILT,100000000
